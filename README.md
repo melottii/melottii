@@ -5,7 +5,7 @@ Sou estudante de sistemas de informação e estou busca de oportunidades para co
 - 🧠 Atualmente estou aprendendo novas técnicas de programação e aprendizado profundo de frameworks. 
 - 🤝 Estou a procura de ambientes em que posso colaborar com projetos, a fim de me manter em constante aprendizado. 
 
-! [SUAS estatísticas do github] (https://github-readme-stats.vercel.app/api?username=USERNAME)
+! [SUAS estatísticas do github] (https://github-readme-stats.vercel.app/api?username=melottii)
 
 [<img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/matheusmelotti/) 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/matheus.melotti/) 
