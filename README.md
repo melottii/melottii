@@ -4,13 +4,13 @@ Hi 👋 My name is Matheus Xavier Melotti
 Senior Data Scientist | Machine Learning Engineer
 -------------------------------------------------
 
-Sou Cientista de Dados Sênior com 5 anos de experiência na resolução de problemas complexos e na otimização de processos através da análise de dados e desenvolvimento de software. Tenho sólida atuação em Python orientado a microsserviços, arquitetura de sistemas, Kubernetes e ambientes distribuídos como Cloudera e SAS.
+Sou Engenheiro de Machine Learning com 5 anos de experiência desenvolvendo soluções inteligentes para problemas complexos e otimizando processos através de análise de dados e desenvolvimento de software. Tenho sólida experiência em Python orientado a microsserviços, arquitetura de sistemas, Kubernetes e ambientes distribuídos como Cloudera e SAS.
 
-Desenvolvi soluções de machine learning para previsão, classificação e extração de regiões de interesse e entidades nomeadas, além de sistemas de OCR para automação de processamento de documentos. Possuo experiência em visão computacional, processamento de linguagem natural (NLP), MLOps (CI/CD e CD4ML) e DevOps. Valorizo a eficiência, a escalabilidade e o trabalho colaborativo, sempre buscando superar desafios técnicos com qualidade. Atualmente, atuo na Vert Analytics, na linha de frente de projetos que integram conceitos de arquitetura de sistemas, ciência de dados, BI, engenharia de dados e inovação técnologica.
+Desenvolvi soluções de machine learning para previsão, classificação e extração de regiões de interesse e entidades nomeadas, além de sistemas de OCR para automação de processamento de documentos. Possuo experiência em visão computacional, processamento de linguagem natural (NLP), MLOps (CI/CD e CD4ML) e DevOps. Valorizo a eficiência, a escalabilidade e o trabalho colaborativo, sempre buscando superar desafios técnicos com qualidade. Atualmente, atuo na A3Data, na linha de frente de projetos que integram conceitos de arquitetura de sistemas, ciência de dados, BI, engenharia de dados, mlops e llmops.
 
 * 🌍  I'm based in Brasil
 * ✉️  You can contact me at [matheus.melotti@gmail.com](mailto:matheus.melotti@gmail.com)
-* 🚀  I'm currently working on [Vert Analytics](http://www.vertanalytics.com.br/)
+* 🚀  I'm currently working on [A3DATA](https://www.a3data.com.br/)
 * 🧠  I'm learning CI/CD and CD4ML
 * 🤝  I'm open to collaborating on NLP and Computer Vision projects
 
